@@ -8,3 +8,7 @@
 
 ### 'What if a user wanted to change music based on their own mood rather than what the weather is, would they be allowed to change music?'
  - A user can make a playlist on the songs that they want to play, even if the weather could be opposite the mood of the music that they play. <br>
+
+
+ ### 'Is all the music available?'
+- Yes all music is availble and will have a licence to use if needed 
