@@ -12,3 +12,7 @@
 
  ### 'Is all the music available?'
 - Yes all music is availble and will have a licence to use if needed 
+
+### “Are you gonna allow users to make their own playlists that play based on the weather?”
+
+- They won't be able to make their own playlist, i want the app to create a playlist for the user containing around 100 songs related to the current weather
